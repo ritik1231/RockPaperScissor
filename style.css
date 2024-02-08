@@ -1,0 +1,22 @@
+body{
+    font-family: Arial,sans-serif;
+    font-weight: bold;
+    margin: 0;
+    text-align: center;
+}
+img{
+    border-radius: 50%;
+    display: inline;
+}
+.winText{
+    color: green;
+}
+.lossText{
+    color: red;
+}
+.drawText{
+    color: purple;
+}
+#result{
+    font-size: larger;
+}
